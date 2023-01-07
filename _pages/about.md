@@ -1,25 +1,21 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://cvbl.iiita.ac.in'>CVBL, IIIT Allahabad</a>. Prayagraj, UP. India.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dp.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am an Integrated MTech-PhD student at IIIT Allahabad. I am working at <a href="https://cvbl.iiita.ac.in">Computer Vision & Biometrics Lab(CVBL)</a> on Vision-Language problems. I completed my Bachelors of Technology in Computer Science and Engineering from <a href="https://nerist.ac.in">NERIST, Nirjuli</a>. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My PhD research focuses on Image/Video Scene Understanding. I have a deep passion for programming, and I explore the latest trends in Computer Vision and Deep Learning research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Formerly, I worked as a Technical Assistant at the Department of Computer Science & Engineering, NIT Silchar for a year and I also worked as a Project Engineer at the Department of Electronics & Communication Engineering, NIT Silchar. The Project was based on Signal & Speech and was funded by DEITY, Ministry of Communications & IT, Government of India.
