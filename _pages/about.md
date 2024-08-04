@@ -29,13 +29,13 @@ Formerly, I worked as a Computer Vision Engineer Intern at Spyne AI, where I dev
 
 My diverse experience also includes a role as a Research Scholar at IIIT-A, where I mainly focused on the Image Scene Understanding. My technical skills encompass Python, PyTorch, Deep Learning, and various AI technologies, enabling me to deliver innovative solutions in the field of Computer Vision. -->
 
-I am an Integrated MTech-PhD student at the Indian Institute of Information Technology Allahabad (IIIT-A), specializing in Computer Vision and Natural Language Processing at the Computer Vision & Biometrics Lab (CVBL). My PhD research focuses on Image/Video Scene Understanding. I have a deep passion for programming and continuously explore the latest trends in Computer Vision and Deep Learning.
+I am an Integrated MTech-PhD student at the Indian Institute of Information Technology Allahabad (IIIT-A), specializing in Computer Vision and Natural Language Processing at the <a href="https://cvbl.iiita.ac.in">Computer Vision & Biometrics Lab (CVBL)</a>. My PhD research focuses on Image/Video Scene Understanding. I have a deep passion for programming and continuously explore the latest trends in Computer Vision and Deep Learning.
 
-Currently, I am serving as an Assistant Professor at Galgotias University, where I teach graduate courses in machine learning, advanced data structures, and algorithm design and analysis. I have been praised for my clarity, approachability, and effectiveness in conveying complex concepts.
+Currently, I am serving as an Assistant Professor at <a href="https://www.galgotiasuniversity.edu.in/">Galgotias University</a>, where I teach graduate courses in machine learning, advanced data structures, and algorithm design and analysis. I have been praised for my clarity, approachability, and effectiveness in conveying complex concepts.
 
-I completed my Bachelor of Technology in Computer Science and Engineering from the North Eastern Regional Institute of Science and Technology (NERIST), Nirjuli. My academic journey has been marked by a commitment to advancing knowledge and contributing to cutting-edge research.
+I completed my Bachelor of Technology in Computer Science and Engineering from the <a href="https://nerist.ac.in/">North Eastern Regional Institute of Science and Technology (NERIST), Nirjuli</a>. My academic journey has been marked by a commitment to advancing knowledge and contributing to cutting-edge research.
 
-Formerly, I worked as a Computer Vision Engineer Intern at Spyne AI, where I developed and deployed AI models for e-commerce object shadow generation. My technical skills in this role included utilizing VAE, GAN, and Diffusion technologies, as well as generating shadow datasets using Blender 2.0+.
+Formerly, I worked as a Computer Vision Engineer Intern at <a href="https://www.spyne.ai/">Spyne AI</a>, where I developed and deployed AI models for e-commerce object shadow generation. My technical skills in this role included utilizing VAE, GAN, and Diffusion technologies, as well as generating shadow datasets using Blender 2.0+.
 
 Additionally, I have extensive research experience as a Research Scholar at IIIT-A. My expertise spans Python, PyTorch, Deep Learning, and various AI technologies, enabling me to deliver innovative solutions in the field of Computer Vision.
 
