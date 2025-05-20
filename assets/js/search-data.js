@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-joined-galgotias-university-greater-noida-as-assistant-professor-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'Joined Galgotias University, Greater Noida as Assistant Professor. A simple inline announcement with...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-etranscap-efficient-transformer-for-image-captioning-applied-intelligence-springer-is-in-press",
+          title: 'ETransCap: Efficient Transformer for Image Captioning, Applied Intelligence, Springer is in press.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
