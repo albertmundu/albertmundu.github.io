@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I teach Data Structures, Design and Analysis of Algorithms, and Machine Learning to BTech undergraduate students.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Design and Analysis of Algorithms
 
-Organize your courses by years, topics, or universities, however you like!
+This course covers fundamental techniques for designing efficient algorithms and analyzing their complexity. Topics include:
+
+- Asymptotic analysis and Big-O notation
+- Divide and conquer strategies
+- Greedy algorithms
+- Dynamic programming
+- Graph algorithms
+- NP-completeness
+
+**Target Audience:** BTech undergraduate students  
+**Prerequisites:** Data Structures
+
+Materials and resources will be provided during lectures and on the course portal.
+
