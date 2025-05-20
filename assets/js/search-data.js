@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-galgotias-university-greater-noida-as-assistant-professor-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'Joined Galgotias University, Greater Noida as Assistant Professor. A simple inline announcement with...',
+            },},{id: "news-joined-galgotias-university-greater-noida-as-assistant-professor-sparkles-smile",
+          title: 'Joined Galgotias University, Greater Noida as Assistant Professor. :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-etranscap-efficient-transformer-for-image-captioning-applied-intelligence-springer-is-in-press",
           title: 'ETransCap: Efficient Transformer for Image Captioning, Applied Intelligence, Springer is in press.',
