@@ -9,7 +9,7 @@ nav_order: 3
 
 
 
-<details>
+<details markdown="1">
     <summary><strong>Course: Design and Analysis of Algorithms</strong></summary>
 
 This course covers fundamental techniques for designing efficient algorithms and analyzing their complexity. Topics include:
@@ -90,7 +90,7 @@ Materials and resources will be provided during lectures and on the course porta
 
 </details>
 
-<details>
+<details markdown="1">
     <summary><strong>Course: Data Structures</strong></summary>
 
 This course introduces fundamental data structures and their applications in computer science. Topics include:
