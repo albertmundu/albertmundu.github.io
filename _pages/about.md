@@ -23,15 +23,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Albert Mundu is a PhD research scholar at the Indian Institute of Information Technology Allahabad (IIIT-A), specializing in **Computer Vision** and **Natural Language Processing** at the [Computer Vision & Biometrics Lab (CVBL)](https://cvbl.iiita.ac.in/). His/Her research focuses on **Image/Video Scene Understanding**, with a particular interest in **Multimodal AI**. He/She is passionate about programming and continuously explores the latest trends in Computer Vision, Natural Language Processing and Deep Learning.
 
-I am an `Integrated MTech-PhD student` at the Indian Institute of Information Technology Allahabad (IIIT-A), specializing in Computer Vision and Natural Language Processing at the [Computer Vision & Biometrics Lab (CVBL)](https://cvbl.iiita.ac.in/). My PhD research focuses on Image/Video Scene Understanding. I have a deep passion for programming and continuously explore the latest trends in Computer Vision and Deep Learning.
+Currently, Albert serves as an **Assistant Professor** at [Galgotias University](https://www.galgotiasuniversity.edu.in/), where he/she teaches graduate courses in **machine learning**, **advanced data structures**, and **algorithm design and analysis**. 
 
-Currently, I am serving as an `Assistant Professor` at [Galgotias University](https://www.galgotiasuniversity.edu.in/), where I teach graduate courses in machine learning, advanced data structures, and algorithm design and analysis. I have been praised for my clarity, approachability, and effectiveness in conveying complex concepts.
+Previously, he was a **Computer Vision Engineer Intern** at [Spyne AI](https://www.spyne.ai/), where he/she developed and deployed AI models for e-commerce object shadow generation utilizing **VAE, GAN, and Diffusion technologies** and Blender 2.0+. As a **Research Scholar** at IIIT-A, his/her expertise includes **Deep Learning** and various **AI technologies**, enabling him/her to deliver innovative **Multimodal AI** solutions in the field of Computer Vision.
 
-I completed my `Bachelor of Technology` in Computer Science and Engineering from the [North Eastern Regional Institute of Science and Technology (NERIST), Nirjuli](https://nerist.ac.in/). My academic journey has been marked by a commitment to advancing knowledge and contributing to cutting-edge research.
-
-Formerly, I worked as a `Computer Vision Engineer Intern` at [Spyne AI](https://www.spyne.ai/), where I developed and deployed AI models for e-commerce object shadow generation. My technical skills in this role included utilizing VAE, GAN, and Diffusion technologies, as well as generating shadow datasets using Blender 2.0+.
-
-Additionally, I have extensive research experience as a Research Scholar at IIIT-A. My expertise spans Python, PyTorch, Deep Learning, and various AI technologies, enabling me to deliver innovative solutions in the field of Computer Vision.
-
-I am driven by a passion for pushing the boundaries of AI and computer vision and am committed to leveraging my skills and knowledge to contribute to pioneering projects.
+*Driven to push the boundaries of AI and Computer Vision, particularly in **Multimodal AI, VLMs, and LLMs**, Albert is committed to leveraging his/her skills and knowledge to contribute to pioneering projects.*
