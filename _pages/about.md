@@ -27,6 +27,6 @@ Albert Mundu is a PhD research scholar at the Indian Institute of Information Te
 
 Currently, Albert serves as an **Assistant Professor** at [Galgotias University](https://www.galgotiasuniversity.edu.in/), where he/she teaches graduate courses in **machine learning**, **advanced data structures**, and **algorithm design and analysis**. 
 
-Previously, he was a **Computer Vision Engineer Intern** at [Spyne AI](https://www.spyne.ai/), where he/she developed and deployed AI models for e-commerce object shadow generation utilizing **VAE, GAN, and Diffusion technologies** and Blender 2.0+. As a **Research Scholar** at IIIT-A, his/her expertise includes **Deep Learning** and various **AI technologies**, enabling him/her to deliver innovative **Multimodal AI** solutions in the field of Computer Vision.
+Previously, he was a **Computer Vision Engineer Intern** at [Spyne AI](https://www.spyne.ai/), where he/she developed and deployed AI models for e-commerce object shadow generation utilizing **VAE, GAN, and Diffusion technologies** and Blender 2.0+.
 
-*Driven to push the boundaries of AI and Computer Vision, particularly in **Multimodal AI, VLMs, and LLMs**, Albert is committed to leveraging his/her skills and knowledge to contribute to pioneering projects.*
+*Driven to push the boundaries of AI, Computer Vision and NLP, particularly in **Multimodal AI**, Albert is committed to leveraging his/her skills and knowledge to contribute to pioneering projects.*
