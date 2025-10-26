@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**ETransCap: Efficient Transformer for Image Captioning**, Applied Intelligence, Springer is in press.
+**ThreatNet: Multimodal Firearm Threat Assessment Network**, IEEE UPCON 2025 (Accepted).
