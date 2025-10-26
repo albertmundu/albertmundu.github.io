@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**ThreatNet: Multimodal Firearm Threat Assessment Network**, IEEE UPCON 2025 (Accepted).
+**ThreatNet: Multimodal Firearm Threat Assessment Network** accepted in IEEE UPCON 2025.
