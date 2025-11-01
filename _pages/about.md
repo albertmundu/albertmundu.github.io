@@ -6,7 +6,7 @@ subtitle: <a href='http://cvbl.iiita.ac.in/'>CVBL, IIIT Allahabad</a>. Prayagraj
 
 profile:
   align: right
-  image: dp_02.jpeg
+  image: dp_02.png
   image_circular: true # crops the image to make it circular
   more_info: 
 
