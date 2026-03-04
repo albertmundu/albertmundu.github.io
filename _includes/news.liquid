@@ -1,9 +1,4 @@
-<div class="news" style="font-size: 11pt">
-  {% if site.news_title %}
-    <h2>{{ site.news_title }}</h2>
-  {% else %}
-    <h2>News</h2>
-  {% endif %}
+<div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
     <div
