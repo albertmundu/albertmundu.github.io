@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'ThreatNet: Multimodal Firearm Threat Assessment Network accepted in IEEE UPCON 2025.',
           description: "",
           section: "News",},{id: "news-attended-and-presented-threatnet-at-ieee-upcon-2025",
-          title: 'Attended and Presented ThreatNet at IEEE UPCON 2025.',
+          title: 'Attended and presented ThreatNet at IEEE UPCON 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
