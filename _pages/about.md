@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='http://cvbl.iiita.ac.in/'>CVBL, IIIT Allahabad</a>. Prayagraj, UP, India.
 
 profile:
-  align: right
+  align: left
   image: dp_02.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
