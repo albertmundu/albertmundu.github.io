@@ -23,10 +23,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Albert Mundu is a PhD research scholar at the Indian Institute of Information Technology Allahabad (IIIT-A), specializing in **Computer Vision** and **Natural Language Processing** at the [Computer Vision & Biometrics Lab (CVBL)](https://cvbl.iiita.ac.in/). His research focuses on **Image/Video Scene Understanding**, with a particular interest in **Multimodal AI**. He is passionate about programming and continuously explores the latest trends in Computer Vision, Natural Language Processing and Deep Learning.
 
-Currently, Albert serves as an **Assistant Professor** at [Galgotias University](https://www.galgotiasuniversity.edu.in/), where he teaches graduate courses -  **machine learning**, **advanced data structures**, and **algorithm design and analysis** at the School of Computing Sciences and Engineering, Galgotias University.
+Albert Mundu is a researcher and educator specializing in the intersection of Computer Vision and Natural Language Processing. With a strong foundation in deep learning, his work focuses on building intelligent systems for complex image and video scene understanding.
 
-Previously, he was a **Computer Vision Engineer Intern** at [Spyne AI](https://www.spyne.ai/), where he developed and deployed AI models for e-commerce object shadow generation utilizing **VAE, GAN, and Diffusion technologies** and Blender 2.0+.
-
-*Driven to push the boundaries of AI, Computer Vision and NLP, particularly in **Multimodal AI**, Albert is committed to leveraging his/her skills and knowledge to contribute to pioneering projects.*
+* **PhD Research Scholar at IIIT-Allahabad ([CVBL](https://cvbl.iiita.ac.in/)):** Researching Image/Video Scene Understanding with a core focus on Multimodal AI, Computer Vision, and Natural Language Processing.
+* **Assistant Professor at [Galgotias University](https://www.galgotiasuniversity.edu.in/):** Instructing graduate courses in Machine Learning, Advanced Data Structures, and Algorithm Design & Analysis.
+* **Former Computer Vision Engineer Intern at [Spyne AI](https://www.spyne.ai/):** Engineered and deployed AI models for e-commerce object shadow generation utilizing VAE, GAN, Diffusion, and Blender.
+* **Research Objective:** Committed to advancing deep learning technologies and leveraging expertise in Multimodal AI for pioneering academic and industry projects.
