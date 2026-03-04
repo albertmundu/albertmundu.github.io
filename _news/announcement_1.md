@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended and presented the paper: ThreatNet at [IEEE UPCON 2025](https://upcon2025.iitbhu.ac.in/).
+Attended and Presented **ThreatNet** at [IEEE UPCON 2025](https://upcon2025.iitbhu.ac.in/).
