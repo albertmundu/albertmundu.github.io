@@ -1991,8 +1991,8 @@ a.close.disabled {
     border-radius: .25rem !important
 }
 
-.rounded-lg {
-    border-radius: .3rem !important
+.rounded-circle {
+    border-radius: 50% !important
 }
 
 .clearfix::after {
