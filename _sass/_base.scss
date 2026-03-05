@@ -33,7 +33,6 @@ table {
 
   th {
     font-weight: normal;
-    text-transform: uppercase;
   }
 }
 
@@ -52,6 +51,7 @@ table.table-sm th {
   font-style: normal;
   font-weight: 300;
   font-family: '0xProto', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Source Code Pro', monospace;
+  text-transform: none;
 }
 
 a,
