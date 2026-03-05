@@ -31,6 +31,6 @@ Hey there! I am a researcher and educator specializing in the intersection of Co
 * **Former Computer Vision Engineer Intern at [Spyne AI](https://www.spyne.ai/):** Engineered and deployed AI models for e-commerce object shadow generation utilizing VAE, GAN, Diffusion, and Blender.
 * **Research Objective:** Committed to advancing deep learning technologies and leveraging expertise in Multimodal AI for pioneering academic and industry projects.
 
-###### Leet's Connect
+###### Let's Connect
 I am always open to discussing new research opportunities, academic collaborations, or just chatting about the latest advancements in Computer Vision, deep learning, and Vision Transformers. Feel free to reach out!
 
