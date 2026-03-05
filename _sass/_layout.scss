@@ -20,6 +20,13 @@ body {
     font-size: 11pt;
   }
 
+  /* Targets all unordered lists */
+  ul {
+    // list-style-type: "★ ";
+    list-style-type: "⭐ ";
+    /* You can also use an emoji like "⭐ " */
+  }
+
   li {
     font-size: 11pt;
   }

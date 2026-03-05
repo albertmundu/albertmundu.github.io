@@ -37,11 +37,21 @@ table {
   }
 }
 
-table.table-sm th,
+
 table.table-sm td {
   padding-top: .2rem;
   padding-bottom: .2rem;
   font-size: 11pt;
+  font-style: normal;
+}
+
+table.table-sm th {
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: 300;
+  font-family: '0xProto', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', 'Source Code Pro', monospace;
 }
 
 a,
