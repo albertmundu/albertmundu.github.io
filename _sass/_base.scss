@@ -36,6 +36,13 @@ table {
   }
 }
 
+table.table-sm th,
+table.table-sm td {
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  font-size: 11pt;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
