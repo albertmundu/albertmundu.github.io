@@ -24,9 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Albert Mundu is a researcher and educator specializing in the intersection of Computer Vision and Natural Language Processing. With a strong foundation in deep learning, his work focuses on building intelligent systems for complex image and video scene understanding.
+Hey there! I am a researcher and educator specializing in the intersection of Computer Vision and Natural Language Processing. With a strong foundation in deep learning, my work focuses on building intelligent systems for complex image and video scene understanding.
 
 * **PhD Research Scholar at IIIT-Allahabad ([CVBL](https://cvbl.iiita.ac.in/)):** Researching Image/Video Scene Understanding with a core focus on Multimodal AI, Computer Vision, and Natural Language Processing.
 * **Assistant Professor at [Galgotias University](https://www.galgotiasuniversity.edu.in/):** Instructing graduate courses in Machine Learning, Advanced Data Structures, and Algorithm Design & Analysis.
 * **Former Computer Vision Engineer Intern at [Spyne AI](https://www.spyne.ai/):** Engineered and deployed AI models for e-commerce object shadow generation utilizing VAE, GAN, Diffusion, and Blender.
 * **Research Objective:** Committed to advancing deep learning technologies and leveraging expertise in Multimodal AI for pioneering academic and industry projects.
+
+### Get in Touch
+Whether you want to collaborate on a Multimodal AI project, discuss NLP research, or just say hi, my inbox is always open. (_contact info at the footer_). 
+
