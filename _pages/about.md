@@ -31,6 +31,6 @@ Hey there! I am a researcher and educator specializing in the intersection of Co
 * **Former Computer Vision Engineer Intern at [Spyne AI](https://www.spyne.ai/):** Engineered and deployed AI models for e-commerce object shadow generation utilizing VAE, GAN, Diffusion, and Blender.
 * **Research Objective:** Committed to advancing deep learning technologies and leveraging expertise in Multimodal AI for pioneering academic and industry projects.
 
-### Get in Touch
-Whether you want to collaborate on a Multimodal AI project, discuss NLP research, or just say hi, my inbox is always open. (_contact info at the footer_). 
+#### Get in Touch
+Whether you want to collaborate on a Multimodal AI project, discuss NLP research, or just say hi, my inbox is always open. `<contact info in footer>`. 
 
