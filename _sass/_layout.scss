@@ -99,7 +99,7 @@ body.sticky-bottom-footer {
   ol.bibliography > li {
     counter-increment: bib-counter -1;
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 0;
 
     &::before {
@@ -107,7 +107,6 @@ body.sticky-bottom-footer {
       flex: 0 0 2.6rem;
       text-align: right;
       padding-right: 0.6rem;
-      padding-top: 0.35rem; // align with .row padding-top
       font-size: 0.8rem;
       color: var(--global-text-color-light);
       white-space: nowrap;
