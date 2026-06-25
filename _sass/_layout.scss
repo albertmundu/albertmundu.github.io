@@ -59,7 +59,99 @@ body.sticky-bottom-footer {
  * Publications
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+.pub-view-toggle {
+  gap: 0.25rem;
+
+  .pub-view-btn {
+    background: transparent;
+    border: 1px solid var(--global-divider-color);
+    color: var(--global-text-color-light);
+    padding: 3px 7px;
+    line-height: 1;
+
+    i { font-size: 1rem; }
+
+    &.active {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+.publications.list-view {
+  ol > li {
+    margin-bottom: 0;
+  }
+
+  .row {
+    padding: 0.65rem 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid var(--global-divider-color);
+    align-items: flex-start;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  // Hide preview image, keep venue badge
+  img.preview {
+    display: none;
+  }
+
+  .col-sm-2.abbr {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: none;
+    padding-right: 0.6rem;
+  }
+
+  .col-sm-8,
+  .col-sm-10 {
+    flex: 1;
+    max-width: 100%;
+  }
+
+  .title {
+    font-size: 0.9rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .author {
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.1rem;
+  }
+
+  .periodical {
+    display: inline;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+
+    em { font-size: 0.8rem; }
+
+    & + .periodical::before {
+      content: " · ";
+    }
+  }
+
+  .links {
+    margin-top: 0.2rem;
+
+    .btn {
+      font-size: 0.7rem;
+      padding: 1px 5px;
+    }
+  }
+
+  .badges {
+    display: none;
+  }
+}
 
 /*****************************************************************************
 * Projects
