@@ -165,28 +165,9 @@ body.sticky-bottom-footer {
     }
   }
 
-  .links {
-    order: 5;
-    width: 100%;
-    margin-top: 0.15rem;
-
-    .btn {
-      font-size: 0.68rem;
-      padding: 1px 4px;
-    }
-  }
-
+  .links,
   .badges {
     display: none;
-  }
-
-  // Expandable blocks (abstract, bibtex) stay full-width when toggled open
-  .abstract:not(.hidden),
-  .bibtex:not(.hidden),
-  .award:not(.hidden) {
-    order: 6;
-    width: 100%;
-    font-size: 0.8rem;
   }
 }
 
