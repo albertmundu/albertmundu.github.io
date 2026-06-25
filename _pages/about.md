@@ -24,13 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I am a researcher and educator specializing in the intersection of Computer Vision and Natural Language Processing. With a strong foundation in deep learning, my work focuses on building intelligent systems for complex image and video scene understanding.
+I'm a PhD scholar at [CVBL, IIIT-Allahabad](https://cvbl.iiita.ac.in/) researching multimodal AI — how vision and language models can be combined to understand images and videos. My recent work spans multi-level feature fusion for image captioning, distilling foundational VLMs into task-specific models through staged pretraining and finetuning, and optimizing captioning with recent state-of-the-art RL methods.
 
-* **PhD Research Scholar at IIIT-Allahabad ([CVBL](https://cvbl.iiita.ac.in/)):** Researching Image/Video Scene Understanding with a core focus on Multimodal AI, Computer Vision, and Natural Language Processing.
-* **Assistant Professor at [Galgotias University](https://www.galgotiasuniversity.edu.in/):** Instructing graduate courses in Machine Learning, Advanced Data Structures, and Algorithm Design & Analysis.
-* **Former Computer Vision Engineer Intern at [Spyne AI](https://www.spyne.ai/):** Engineered and deployed AI models for e-commerce object shadow generation utilizing VAE, GAN, Diffusion, and Blender.
-* **Research Objective:** Committed to advancing deep learning technologies and leveraging expertise in Multimodal AI for pioneering academic and industry projects.
+I also teach postgraduate courses in Machine Learning and Algorithms at [Galgotias University](https://www.galgotiasuniversity.edu.in/), and previously interned at [Spyne AI](https://www.spyne.ai/) working on e-commerce shadow generation with conditional VAEs, GANs, and diffusion models.
 
-###### Let's Connect
-I am always open to discussing new research opportunities, academic collaborations, or just chatting about the latest advancements in Computer Vision, Natural Language Processing, Deep Learning, LLMs, MLLMs, VLMs, Image Generation (SD, FLUX, ZIT), and Distillation. Feel free to reach out!
+Always open to research collaborations or a good conversation about CV, NLP, or generative models — feel free to reach out.
 
