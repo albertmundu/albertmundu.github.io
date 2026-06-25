@@ -88,12 +88,25 @@ body.sticky-bottom-footer {
   }
 
   ol.bibliography {
-    list-style: decimal;
-    padding-left: 1.5rem;
+    list-style: none;
+    counter-reset: bib-counter;
+    padding-left: 2.8rem;
   }
 
   ol.bibliography > li {
+    counter-increment: bib-counter;
+    position: relative;
     margin-bottom: 0;
+
+    &::before {
+      content: '[' counter(bib-counter) ']';
+      position: absolute;
+      left: -2.8rem;
+      width: 2.5rem;
+      text-align: right;
+      font-size: 0.8rem;
+      color: var(--global-text-color-light);
+    }
   }
 
   .row {
