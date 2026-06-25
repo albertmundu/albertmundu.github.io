@@ -83,7 +83,6 @@ body.sticky-bottom-footer {
 }
 
 .publications.list-view {
-  // Hide year headers
   h2.year {
     display: none;
   }
@@ -93,7 +92,7 @@ body.sticky-bottom-footer {
   }
 
   .row {
-    padding: 0.4rem 0;
+    padding: 0.35rem 0;
     margin-bottom: 0;
     border-bottom: 1px solid var(--global-divider-color);
     align-items: baseline;
@@ -103,41 +102,67 @@ body.sticky-bottom-footer {
     }
   }
 
-  // Hide entire abbr column (badge + preview)
   .col-sm-2.abbr {
     display: none;
   }
 
+  // Inline citation layout: Author, "Title", Venue, Year
   .col-sm-8,
   .col-sm-10 {
     flex: 1;
     max-width: 100%;
-  }
-
-  .title {
-    font-size: 0.88rem;
-    margin-bottom: 0.1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 0;
   }
 
   .author {
-    font-size: 0.78rem;
-    color: var(--global-text-color-light);
-    margin-bottom: 0.05rem;
+    order: 1;
+    font-size: 0.8rem;
+    color: var(--global-text-color);
+    margin-bottom: 0;
+
+    &::after {
+      content: ',\00a0';
+    }
+  }
+
+  .title {
+    order: 2;
+    font-size: 0.8rem;
+    margin-bottom: 0;
+
+    &::before {
+      content: '\201C';
+    }
+
+    &::after {
+      content: '\201D,\00a0';
+    }
   }
 
   .periodical {
-    display: inline;
-    font-size: 0.78rem;
+    order: 3;
+    font-size: 0.8rem;
     color: var(--global-text-color-light);
 
-    em { font-size: 0.78rem; }
+    em {
+      font-size: 0.8rem;
+    }
 
-    & + .periodical::before {
-      content: " · ";
+    & + .periodical {
+      order: 4;
+
+      &::before {
+        content: '\00a0\00B7\00a0';
+      }
     }
   }
 
   .links {
+    order: 5;
+    width: 100%;
     margin-top: 0.15rem;
 
     .btn {
@@ -148,6 +173,15 @@ body.sticky-bottom-footer {
 
   .badges {
     display: none;
+  }
+
+  // Expandable blocks (abstract, bibtex) stay full-width when toggled open
+  .abstract:not(.hidden),
+  .bibtex:not(.hidden),
+  .award:not(.hidden) {
+    order: 6;
+    width: 100%;
+    font-size: 0.8rem;
   }
 }
 
