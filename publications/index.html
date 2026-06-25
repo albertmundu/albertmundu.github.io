@@ -34,10 +34,13 @@
     var cardBtn = document.getElementById('btn-card-view');
     var listBtn = document.getElementById('btn-list-view');
     if (view === 'list') {
+      var total = pubs.querySelectorAll('ol.bibliography > li').length;
+      pubs.style.counterReset = 'bib-counter ' + (total + 1);
       pubs.classList.add('list-view');
       listBtn.classList.add('active');
       cardBtn.classList.remove('active');
     } else {
+      pubs.style.counterReset = '';
       pubs.classList.remove('list-view');
       cardBtn.classList.add('active');
       listBtn.classList.remove('active');
