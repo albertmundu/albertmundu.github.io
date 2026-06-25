@@ -83,31 +83,29 @@ body.sticky-bottom-footer {
 }
 
 .publications.list-view {
+  // Hide year headers
+  h2.year {
+    display: none;
+  }
+
   ol > li {
     margin-bottom: 0;
   }
 
   .row {
-    padding: 0.65rem 0;
+    padding: 0.4rem 0;
     margin-bottom: 0;
     border-bottom: 1px solid var(--global-divider-color);
-    align-items: flex-start;
+    align-items: baseline;
 
     &:last-child {
       border-bottom: none;
     }
   }
 
-  // Hide preview image, keep venue badge
-  img.preview {
-    display: none;
-  }
-
+  // Hide entire abbr column (badge + preview)
   .col-sm-2.abbr {
-    flex: 0 0 auto;
-    width: auto;
-    max-width: none;
-    padding-right: 0.6rem;
+    display: none;
   }
 
   .col-sm-8,
@@ -117,22 +115,22 @@ body.sticky-bottom-footer {
   }
 
   .title {
-    font-size: 0.9rem;
-    margin-bottom: 0.15rem;
+    font-size: 0.88rem;
+    margin-bottom: 0.1rem;
   }
 
   .author {
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: var(--global-text-color-light);
-    margin-bottom: 0.1rem;
+    margin-bottom: 0.05rem;
   }
 
   .periodical {
     display: inline;
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: var(--global-text-color-light);
 
-    em { font-size: 0.8rem; }
+    em { font-size: 0.78rem; }
 
     & + .periodical::before {
       content: " · ";
@@ -140,11 +138,11 @@ body.sticky-bottom-footer {
   }
 
   .links {
-    margin-top: 0.2rem;
+    margin-top: 0.15rem;
 
     .btn {
-      font-size: 0.7rem;
-      padding: 1px 5px;
+      font-size: 0.68rem;
+      padding: 1px 4px;
     }
   }
 
