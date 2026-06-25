@@ -2049,6 +2049,11 @@ a.close.disabled {
     flex-wrap: nowrap !important
 }
 
+.justify-content-end {
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important
+}
+
 .justify-content-center {
     -ms-flex-pack: center !important;
     justify-content: center !important
