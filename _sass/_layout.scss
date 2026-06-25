@@ -83,11 +83,16 @@ body.sticky-bottom-footer {
 }
 
 .publications.list-view {
-  h2.year {
+  h2.bibliography {
     display: none;
   }
 
-  ol > li {
+  ol.bibliography {
+    list-style: decimal;
+    padding-left: 1.5rem;
+  }
+
+  ol.bibliography > li {
     margin-bottom: 0;
   }
 
