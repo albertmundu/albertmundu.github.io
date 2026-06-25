@@ -83,7 +83,7 @@ body.sticky-bottom-footer {
 }
 
 .publications.list-view {
-  // Counter lives on the container so it spans across multiple ol groups
+  // Starting value set dynamically by JS (total + 1); decrements to give [N]...[1]
   counter-reset: bib-counter;
 
   h2.bibliography {
@@ -97,7 +97,7 @@ body.sticky-bottom-footer {
   }
 
   ol.bibliography > li {
-    counter-increment: bib-counter;
+    counter-increment: bib-counter -1;
     display: flex;
     align-items: flex-start;
     margin-bottom: 0;
